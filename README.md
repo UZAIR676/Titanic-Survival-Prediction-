@@ -27,4 +27,8 @@ The model is trained using the following features:
    - Model evaluation is performed using accuracy, confusion matrix, and classification report.  
 
 4. **Making Predictions:**  
-   - The trained model predicts survival outcomes based on user input.  
+   - The trained model predicts survival outcomes based on user input.
+  
+5. **Enter passenger details when prompted (example input)**
+   - 3 0 22 1 0 7.25 0
+
